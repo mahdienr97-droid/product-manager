@@ -14,6 +14,7 @@ try:
         counter += 1
     print("Number of products:",counter)
     print("Total:",total)
+    print("Git practice")
 
 except FileNotFoundError:
     print("File Not Found")
