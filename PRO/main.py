@@ -16,6 +16,7 @@ try:
     print("Total:",total)
     print("Git practice")
     print("Git is useful")
+    print("Staging test")
 
 except FileNotFoundError:
     print("File Not Found")
