@@ -18,6 +18,7 @@ try:
     print("Git is useful")
     print("Staging test")
     print("Search feature")
+    print("Filter feature")
 
 
 except FileNotFoundError:
