@@ -17,6 +17,8 @@ try:
     print("Git practice")
     print("Git is useful")
     print("Staging test")
+    print("Search feature")
+
 
 except FileNotFoundError:
     print("File Not Found")
